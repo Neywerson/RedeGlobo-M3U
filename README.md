@@ -22,7 +22,7 @@ Este repositório é mantido de forma independente e não está associado direta
 
 | _**[REDE GLOBO.m3u](https://raw.github.com/Neywerson/RedeGlobo-M3U/master/RedeGlobo.m3u)** 📄_ |
 | --- |
-|LINKS DAS URLS DIRETOS|
+|LINKS DIRETOS DOS CANAIS|
 |[TV Globo Rio de Janeiro - Rio de Janeiro](http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-22.9068&long=-43.1729)|
 |[TV Globo São Paulo - São Paulo](http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-23.5505&long=-46.6333)|
 |[TV Globo Minas - Belo Horizonte](http://revendapro.zapto.org/painel/globoplay/globo.php?id=4452349&lat=-19.8157&long=-43.9542)|
