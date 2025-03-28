@@ -11,7 +11,7 @@ NÃO DEPENDE DE MIM ATUALIZAÇÕES DESTES LINKS, USE ATÉ UM DIA CAIR (OU NÃO N
 ----
 
 ## 🌟 **Contribuições**
-Se você tem sugestões, melhorias ou encontrou algum erro no EPG, sinta-se à vontade para entrar em contato comigo por [e-mail](nfdr_nfdr@hotmail.com).
+Se você tem sugestões, melhorias ou encontrou algum erro, sinta-se à vontade para entrar em contato comigo por [e-mail](nfdr_nfdr@hotmail.com).
 
 ---
 
